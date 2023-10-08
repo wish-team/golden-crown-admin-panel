@@ -1,1 +1,2 @@
-# golden-crown-admin-panel
+# Golden Crown Admin Panel
+![alt text](http://url/to/img.png)
